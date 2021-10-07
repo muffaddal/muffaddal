@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @muffaddal
+- 👀 I’m interested in buidling new things which are fast, scalable and concrete.
+- 🌱 I’m currently learning Vue JS, React JS, Nuxt JS.
+- 💞️ I’m looking to collaborate on Laravel & JS based projects
+- 📫 How to reach me Wayne Manor, 1007 Mountain Drive, Gotham City. (Tell Gordon to put up the sign) 
+- ✉️ SMS / Whatsapp - +91 9820 300 292.
+- 📧 muffaddal.nagpurwala@gmail.com
+
 <!--
 **muffaddal/muffaddal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
