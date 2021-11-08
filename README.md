@@ -7,6 +7,7 @@
 - 📫 How to reach me Wayne Manor, 1007 Mountain Drive, Gotham City. (Tell Gordon to put up the sign) 
 - ✉️ SMS / Whatsapp - +91 9820 300 292.
 - 📧 muffaddal.nagpurwala@gmail.com
+- ⚡ I talk here: https://mufaddaln.com/
 
 <!--
 **muffaddal/muffaddal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
